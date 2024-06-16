@@ -1,4 +1,4 @@
-# Picofocus
+# Picofocuser
 Telescope focuser with pico w/A4899/stepper motor
 
 Version 1.1
