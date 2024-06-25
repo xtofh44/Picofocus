@@ -9,10 +9,11 @@ The purpose is to drive a stepper motor with a raspberry pico w with stepper mot
 
 there are 2 different speeds slow/fast (lent/rapide  yes I'm french :-) ) 
 
-2 mmomentary push button for IN and OUT
+2 momentary push buttons for IN and OUT
+
 1 maintained push button for Slow/fast
 
-An oled lcd display is added to get information
+An oled lcd display is added to get informations
 
 The microstep mode is used for slow speed
 
